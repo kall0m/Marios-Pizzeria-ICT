@@ -4,15 +4,13 @@
   <img src="https://github.com/kall0m/Marios-Pizzeria-ICT/blob/master/IP-Logo.png" alt="IBI-Group">
 </p>
 
-We are IBI Group - a group of students at Fontys University of Applied Sciences. We provide <b><i>ICT Business Improvement</i></b> solutions.
+We are IBI Group - a group of students at Fontys University of Applied Sciences. We provide <b><i>ICT Business Improvement</i></b> solutions. Currently we are applying our ICT knowledge to fix the communication issues of a pizzeria.
 
 ## Members
 
 - Kaloyan Madzhunov, Team Leader
 - Velimir Vukasinovic, Team Member
 - Alexandar Popov, Team Member
-
-# Fixing the communication issues of a pizzeria using ICT
 
 # Project background
 
