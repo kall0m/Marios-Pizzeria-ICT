@@ -6,6 +6,9 @@
 
 We are IBI Group - a group of students at Fontys University of Applied Sciences. We provide <b><i>ICT Business Improvement</i></b> solutions. Currently we are applying our ICT knowledge to fix the communication issues of a pizzeria.
 
+## Tools
+- Trello - https://trello.com/b/p2CYvmq4
+
 ## Members
 
 - Kaloyan Madzhunov, Team Leader
