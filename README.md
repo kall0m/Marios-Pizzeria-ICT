@@ -8,6 +8,8 @@ We are IBI Group - a group of students at Fontys University of Applied Sciences.
 
 ## Tools
 - Trello - https://trello.com/b/p2CYvmq4
+- Google Drive shared space
+- WhatsApp - for communication
 
 ## Members
 
